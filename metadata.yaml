@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/876
     wikipedia: http://en.wikipedia.org/wiki/Alice_Freeman_Palmer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36774#The-Teacher--Essays-and-Addresses-on-Education
 gutenberg_issued: '2011-07-17'
 gutenberg_type: Text
 identifiers:
