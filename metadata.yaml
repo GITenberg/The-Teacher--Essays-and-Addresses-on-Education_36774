@@ -1,0 +1,45 @@
+_repo: The-Teacher--Essays-and-Addresses-on-Education_36774
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Palmer, George Herbert
+    birthdate: 1842
+    deathdate: 1933
+    gutenberg_agent_id: '1948'
+    url: http://www.gutenberg.org/2009/agents/1948
+    wikipedia: http://en.wikipedia.org/wiki/George_Herbert_Palmer
+  - agent_name: Palmer, Alice Freeman
+    alias: Palmer, Alice Elvira Freeman
+    birthdate: 1855
+    deathdate: 1902
+    gutenberg_agent_id: '876'
+    url: http://www.gutenberg.org/2009/agents/876
+    wikipedia: http://en.wikipedia.org/wiki/Alice_Freeman_Palmer
+description: ''
+gutenberg_issued: '2011-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36774'
+  lccn: 08032424
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Education'
+- !lcc 'LB'
+- !lcsh 'Women -- Education'
+- !lcsh 'Education, Higher'
+tableOfContents: 'I. Problems of school and college: The ideal teacher. Ethical instruction
+  in schools. Moral instruction in schools. Self-cultivation in English. Doubts about
+  university extension. Specialization. The glory of the imperfect -- II. Harvard
+  papers: The new education. Erroneous limitations of the elective system. Necessary
+  limitations of the elective system. College expenses. A teacher of the olden time
+  [Professor Sophocles] -- III. Papers by Alice F. Palmer: Three types of women''s
+  colleges. Women''s education in the nineteenth century. Women''s education at the
+  World''s Fair. Why go to college?'
+title: 'The Teacher: Essays and Addresses on Education'
+url: http://www.gutenberg.org/ebooks/36774
